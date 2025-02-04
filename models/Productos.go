@@ -1,4 +1,4 @@
-package server
+package models
 
 type Productos struct{
 	ID int `json:"id"`
