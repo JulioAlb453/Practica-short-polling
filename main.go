@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "Practica/server" // Asegúrate de importar el paquete server
+    "Practica/server" 
 )
 
 func main() {
